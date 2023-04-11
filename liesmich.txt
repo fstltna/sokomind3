@@ -1,0 +1,196 @@
+
+Liesmich-Datei zu SokoMind
+--------------------------
+
+SokoMind ist ein Spiel, bei dem Kisten durch
+Gaenge auf Zielfelder geschoben werden muessen.
+Es kann immer nur hoechstens eine Kiste
+geschoben, nicht aber zurueckgezogen werden;
+man muß darauf achten, sich nicht selbst den
+Weg zu blockieren.
+
+Inhalt:
+-------
+
+1. Lizenz
+2. Haftungsausschluss
+3. Systemvoraussetzungen, Installation
+4. Programmeigenschaften
+5. Neu in Version 3.4 
+6. Neu in Version 3.3 
+7. Hilfedatei
+8. SokoMind Webseite (www.sokomind.de)
+9. Kontakt
+
+1. Lizenz:
+----------
+
+Diese Software, Copyright (c) Gerald Holler, ist
+Freeware - nicht Public Domain. Das bedeutet,
+dass sie kostenlos benutzt, kopiert und weitergegeben
+werden darf. Voraussetzung ist, dass die gesamte,
+unveraenderte Archivdatei weitergegeben wird.
+Es ist nicht erlaubt, das Programm zu verkaufen
+oder Aenderungen daran vorzunehmen; Inhaber
+saemtlicher Rechte an dieser Software ist der
+Autor. Eine Registrierung ist nicht erforderlich.
+
+Eine Verbreitung des Programms auf CD-ROM oder
+gebuendelt mit anderer Soft- oder Hardware
+bedarf meiner Genehmigung (E-Mail siehe unten).
+
+Die im Programm enthaltenen Levels sind Copyright
+(c) Kevin B. Reilly und duerfen nicht separat
+verbreitet werden.
+
+Das Programm darf nicht dazu benutzt werden,
+kommerzielle Levels (Thinking Rabbit Inc., Japan,
+Games4Brains u. dgl.) abzuspeichern.
+
+2. Haftungsausschluss:
+----------------------
+
+Diese Software wird ohne jede Gewaehrleistung fuer
+Maengelfreiheit und einwandfreie Funktion zur
+Verfuegung gestellt. Die Benutzung erfolgt
+auf eigene Gefahr des Anwenders. Der Autor
+uebernimmt keinerlei Haftung fuer jedwede
+Schaeden oder Nachteile, die durch Installation
+oder Gebrauch dieser Software entstehen.
+
+3. Systemvoraussetzungen, Installation:
+---------------------------------------
+
+Windows 95/98, 640x480 Bildschirm mit mind 256
+Farben, Soundkarte wird unterstuetzt.
+
+Die Software wird als selbsextrahierendes
+Archiv mit Installationsprogramm zur Verfuegung
+gestellt. Nach dem ersten Start erscheint
+ein Dialog zur Auswahl der Sprache.
+
+De-installation ueber die Windows-Systemsteuerung.
+
+4. Programmeigenschaften:
+-------------------------
+
+-60 neue Levels
+-20 SokoMind-Plus-Levels: Numerierte Kisten auf
+ numerierten Feldern plazieren (Anhänger der
+ neuen Rechtschreibung dürfen ungestraft
+ nummerierte Kisten platzieren)
+-Levels in beliebiger Reihenfolge loesbar
+-Bedienung mit Tastatur und Maus
+-Bestleistungen verschiedener Spieler verwalten
+-Ruecknahme beliebig vieler Zuege
+-maximale Levelgroesse: 33 x 25 Felder
+-Hunderte von Zusatzlevels verschiedener Autoren
+ stehen auf der SokoMind-Webseite zum Download
+ bereit
+-Vorschau auf die Zusatzlevels im Datei-Ladedialog
+-Eingebauter Editor fuer eigene Levels
+-Levels koennen zur Abwechslung gespiegelt,
+ gekippt oder gedreht gespielt werden
+-Gefundene Loesungen koennen vom Programm abgespielt
+ werden; aus der Position, in der das Vorspielen
+ beendet wurde, kann weitergespielt werden
+-Verwendung eigener Hintergrundbilder (nicht
+ bei 256 Farben)
+-Auf Wunsch beruhigende Klaenge eines Glockenspiels
+ im Hintergrund
+
+5. Neu in Version 3.4:
+----------------------
+
+-Neu: Sprachunterstützung für Spanisch
+ Vielen Dank für die Übersetzung an 
+ Juan Carlos Uriarte <roblesolido@hotmail.com>
+-Neu: Lesezeichen - Es können bis zu 99 Lesezeichen 
+ für das aktuell gespielte Level gesetzt werden, 
+ um zu den so gespeicherten Positionen
+ mühelos zurückkehren zu können
+-Neu: Speicherung der Zeit - Die Zeit, die benötigt
+ wurde, um ein Level zum erstenmal zu lösen, wird nun
+ in der Lösungsdatei gespeichert und später im Info-
+ Dialog (STRG-i) zusammen mit anderen Daten angezeigt. 
+ Mit F2 kann das Spiel unterbrochen und die Uhr 
+ angehalten werden
+-Neu: Transparente Wege
+
+6. Neu in Version 3.3:
+----------------------
+
+-Neu: Verbesserte Mausbedienung (Mit einem Linksklick
+ die Kiste markieren, die verschoben werden soll, dann
+ auf die Stelle klicken, auf die die Kiste bewegt werden
+ soll; wenn dieser Zug möglich ist, wird er automatisch
+ ausgeführt. (Für Spezialisten: Es wird nicht immer der
+ optimale Weg gefunden, aber fast immer ein ausreichend
+ guter. Wenn man eine bestimmte, mit der vom Programm
+ gefundenen nicht übereinstimmende, Strecke benutzen möchte,
+ z. B. um die kürzeste Lösung zu finden, kann man dies
+ erreichen, indem man die Gesamtstrecke in gerade Segmente
+ aufteilt.)
+-Neu: Nächstes ungelöstes Level anwählen
+-Neu: Nach der Lösung eines Levels kann dieses sofort
+ noch einmal gespielt werden
+-Neu: Auch die Lösung von Levels, die selbst nicht
+ gespeichert sind (z. B. solche, die über die Zwischenablage
+ importiert wurden), kann gespeichert werden
+-Neu: Toolbar
+-Neu: Bestleistungen verschiedener Spieler für einzelne Level
+ vergleichen
+-Neu: Im Laden-Dialog kann ein Verzeichnis als Standard-
+ Verzeichnis gesetzt werden (Rechtsklick auf freie Stelle)
+-Geändert: Mit "nächstes Level" und "voriges Level" werden
+ sämtliche in einem Verzeichnis enthaltene Leveldateien
+ in alphabetischer Reihenfolge durchlaufen; es ist nicht
+ mehr erforderlich, daß die Dateinamen einem bestimmten
+ Muster folgen
+-Geändert: "Gehe zu level..." kehrt nicht mehr automatisch
+ zu den eingebauten Levels zurück, wenn gerade ein externes
+ Level gespielt wird, sondern zeigt in diesem Fall den
+ "lade externes Level"-Dialog
+-Fehler beseitigt: Wenn ein Level einen Titel hat, wird
+ nun dieser angezeigt, nicht der Dateiname
+-Fehler beseitigt: Externe Levels in UNIX-Dateien (nur LF
+ statt CR/LF) werden nun korrekt gelesen
+-Zahlreiche kleinere Fehler wurden behoben
+
+-Achtung:
+ Gespeicherte Positionsdateien (.XBP) aus
+ Version 3.0 und frueher sind nicht mehr kompatibel
+ und koennen nicht mehr gelesen werden.
+
+7. Hilfedatei:
+--------------
+
+Im Moment gibt es nur eine englische Hilfedatei fuer
+SokoMind. Zu einigen Bedienelementen werden
+kurze Erklaerungen eingeblendet, wenn der Mauszeiger
+darueber bewegt wird.
+
+8. SokoMind Webseite:
+---------------------
+
+********************************************
+* W I C H T I G :                          *
+*                                          *
+* Die Adresse der SokoMind-Homepage hat    *
+* sich erneut geaendert.                   *
+*                                          *
+* Bitte fuer Links                         *
+* a u s s c h l i e s s l i c h   folgende *
+* Adresse verwenden;                       *
+* alle anderen, die jetzt noch             *
+* funktionieren, werden demnaechst         *
+* abgeschaltet:                            *
+*                                          *
+* http://www.sokomind.de/                  *
+********************************************
+
+9. Autor:
+---------
+
+Gerald Holler
+gh@sokomind.de
